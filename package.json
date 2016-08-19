@@ -1,0 +1,16 @@
+{
+  "title": "JSVerify",
+  "name": "jsverify",
+  "version": "0.0.1",
+  "description": "Extension to verify JavaScript fetched from remote sources",
+  "main": "index.js",
+  "author": "Mercurial Applications",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GNU GPL",
+  "keywords": [
+    "jetpack"
+  ]
+}
